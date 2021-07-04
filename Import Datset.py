@@ -1,6 +1,6 @@
 ## Import pandas and Numpy
 import pandas as pd
-import numpy as ny
+
 import os
 os.getcwd()
 
@@ -20,4 +20,11 @@ Gender_Stats.shape
 Gender_Stats.dtypes
 
 Gender_Stats.loc[:10, ["Country Name", "Indicator Name", "2019"]]
+
+## Sort by Indicator Name
+Gender_Stats.sort_values("Indicator Name")
+
+## list unique values for indicators
+Gender_Stats['Indicator Name'].unique()
+
 
