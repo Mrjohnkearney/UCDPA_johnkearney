@@ -59,3 +59,18 @@ df.dropna(subset = ["2019"], inplace=True)
 Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
 ##Generate  CSV file for export
 Gender_Stats_2019.to_csv("Gender_Stats_2019.csv", index=False, encoding='utf8')
+
+import matplotlib.pyplot as plt
+## select Data to plot in chart
+plot_data = Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
+plot_data = plot_data.groupby('Country Name')['2019'].sum()
+plot_data.sort_values()[-25:].plot(kind='bar')
+plt.title('Countries with greatest Death by Injury(% of total)')
+plt.ylabel('% Deaths by Injury')
+
+## select Data to plot in chart
+plot_data = Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
+plot_data = plot_data.groupby('Country Name')['2019'].sum()
+plot_data.sort_values()[34:59].plot(kind='bar')
+plt.title('Countries with Lowest Death by Injury(% of total)')
+plt.ylabel('% Deaths by Injury')
