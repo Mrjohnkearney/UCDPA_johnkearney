@@ -1,61 +1,98 @@
-## Import pandas and Numpy
+# Import pandas and Numpy
 import pandas as pd
 
 import os
 os.getcwd()
 
-## Read CSV file
-Gender_Stats =pd.read_csv('Gender_StatsData.csv')
+# Read CSV file
+Gender_Stats = pd.read_csv('Gender_StatsData.csv')
 
-## Print FIle
+# Print FIle
 print(Gender_Stats)
 
-## To display any top 10 rows
+# To display any top 10 rows
 Gender_Stats.head(1000)
 
-## To check the shape of the dataset
+# To check the shape of the dataset
 Gender_Stats.shape
 
-## To check the data type  of the dataset
+# To show the columns of the dataset
+Gender_Stats.columns
+
+# To check the data type  of the dataset
 Gender_Stats.dtypes
 
 Gender_Stats.loc[:10, ["Country Name", "Indicator Name", "2019"]]
 
-## Sort by Indicator Name
+# Sort by Indicator Name
 Gender_Stats.sort_values("Indicator Name")
 
-## list unique values for indicators
+# list unique values for indicators
 Gender_Stats['Indicator Name'].unique()
 
-import numpy as np
+# import numpy as np
 df = pd.DataFrame
 
 Gender_Stats
 
-## Show top 500 values
+# Show top 500 values
 Gender_Stats.head(500)
 
-## Describe the data based on the Indicator Code Column
+# Describe the data based on the Indicator Code Column
 Gender_Stats['Indicator Code'].describe()
 
-##Show the unique values on the indicator code Column
+# Show the unique values on the indicator code Column
 Gender_Stats['Indicator Code'].unique()
-##Show the Country , country code, Indicator name , Indicator code and data for 2019
-Gender_Stats[['Country Name', 'Country Code', 'Indicator Name', 'Indicator Code','2019']]
-##Create a new Dataset called Gender_Stats_2019
+# Show the Country , country code, Indicator name , Indicator code and data for 2019
+var = Gender_Stats[['Country Name', 'Country Code', 'Indicator Name', 'Indicator Code', '2019']]
+# Create a new Dataset called Gender_Stats_2019
 Gender_Stats_2019 = Gender_Stats[['Country Name', 'Country Code', 'Indicator Name','Indicator Code', '2019']]
 
-##Print Gender_Stats_2019
+# Print Gender_Stats_2019
 print(Gender_Stats_2019)
-##Filter Gender_Stats_2019 to show rowsfor 'Cause of Death by Injury (% of total)
+# Filter Gender_Stats_2019 to show rows for 'Cause of Death by Injury (% of total)
 Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
 
-##Create a dataFrame
+# Create a dataFrame
 df =pd.DataFrame(Gender_Stats_2019)
-##Drop rows where values on column '2019' is equal to NaN
-df.dropna(subset = ["2019"], inplace=True)
+# Drop rows where values on column '2019' is equal to NaN
+df.dropna(subset = ["2019"],inplace=True)
 
-##Filter the dataframe to show all rows with values for 'Cause of death, by injury (% of total)
+# Filter the dataframe to show all rows with values for 'Cause of death, by injury (% of total)
 Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
-##Generate  CSV file for export
+# Generate  CSV file for export
 Gender_Stats_2019.to_csv("Gender_Stats_2019.csv", index=False, encoding='utf8')
+
+# Create a new Dataset
+
+Gender_Stats_2019_Full =Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
+
+# Drop all NaN values
+death_by_injury = Gender_Stats_2019_Full.dropna()
+
+import matplotlib.pyplot as plt
+# select Data to plot in chart
+plot_data = Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
+plot_data = plot_data.groupby('Country Name')['2019'].sum()
+plot_data.sort_values()[-25:].plot(kind='bar')
+plt.title('Countries with greatest Death by Injury(% of total)')
+plt.ylabel('% Deaths by Injury')
+
+# select Data to plot in chart
+plot_data = Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Cause of death, by injury (% of total)']
+plot_data = plot_data.groupby('Country Name')['2019'].sum()
+plot_data.sort_values()[34:59].plot(kind='bar')
+plt.title('Countries with Lowest Death by Injury(% of total)')
+plt.ylabel('% Deaths by Injury')
+
+# sort the data for Daeath by Injury  and display
+death_by_injury.sort_values(["2019"])
+
+# View Death by Injury DataFrame
+death_by_injury
+
+# NEw Dataset GDP_PEr_Capita
+GDP_Per_Capita =Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'GDP per capita (constant 2010 US$)']
+
+# Drop NaN values
+GDP = GDP_Per_Capita.dropna()
