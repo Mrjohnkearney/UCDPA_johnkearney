@@ -1,0 +1,220 @@
+Country Name_x,Country Code,Indicator Name_x,Indicator Code_x,2019_x,Country Name_y,Indicator Name_y,Indicator Code_y,2019_y
+Arab World,ARB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6428.59338306898,Arab World,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.1279130506063
+Caribbean small states,CSS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9297.72619197909,Caribbean small states,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.0638106796013
+Central Europe and the Baltics,CEB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,16985.9928526884,Central Europe and the Baltics,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.22797666197834
+Early-demographic dividend,EAR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3756.15290834127,Early-demographic dividend,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.05008425154921
+East Asia & Pacific,EAS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,10652.4942224188,East Asia & Pacific,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.67635191769497
+East Asia & Pacific (excluding high income),EAP,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6845.37872463168,East Asia & Pacific (excluding high income),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.79897658202346
+East Asia & Pacific (IDA & IBRD),TEA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6917.18437593902,East Asia & Pacific (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.79887448334363
+Euro area,EMU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,41350.8754331318,Euro area,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.8269487404868
+Europe & Central Asia,ECS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,26645.1780533879,Europe & Central Asia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.11258207711933
+Europe & Central Asia (excluding high income),ECA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9658.80091705956,Europe & Central Asia (excluding high income),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.8255605720123
+Europe & Central Asia (IDA & IBRD),TEC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,10460.3965922756,Europe & Central Asia (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.55471361054514
+European Union,EUU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,37100.293930036,European Union,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.62456410600078
+Fragile and conflict affected situations,FCS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2278.59114410096,Fragile and conflict affected situations,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.3251830345991
+Heavily indebted poor countries (HIPC),HPC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,934.83813194686,Heavily indebted poor countries (HIPC),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.7452047972548
+High income,HIC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,43651.5445657852,High income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.63864940113627
+IBRD only,IBD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6239.65779532078,IBRD only,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.12271602657137
+IDA & IBRD total,IBT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4966.89780377608,IDA & IBRD total,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.45215718619451
+IDA blend,IDB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1750.93539984101,IDA blend,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.87939243139129
+IDA only,IDX,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1071.67834612216,IDA only,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.3363216183392
+IDA total,IDA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1301.27765220265,IDA total,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.43425565423767
+Late-demographic dividend,LTE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9019.08360792489,Late-demographic dividend,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.36842874502886
+Latin America & Caribbean,LCN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9590.17306799336,Latin America & Caribbean,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.2298115566005
+Latin America & Caribbean (excluding high income),LAC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9228.38841099182,Latin America & Caribbean (excluding high income),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.3880378936558
+Latin America & Caribbean (IDA & IBRD),TLA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9511.72307670589,Latin America & Caribbean (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.3431377166473
+Least developed countries: UN classification,LDC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,987.858188369412,Least developed countries: UN classification,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.2526078792974
+Low & middle income,LMY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4807.6351808888,Low & middle income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.51414887025088
+Low income,LIC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,809.621635648142,Low income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.0094381865301
+Lower middle income,LMC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2134.99103850444,Lower middle income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.78571280452346
+Middle East & North Africa,MEA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,7660.25845473292,Middle East & North Africa,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.107122981729
+Middle East & North Africa (excluding high income),MNA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4173.58423390929,Middle East & North Africa (excluding high income),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.48427007673926
+Middle East & North Africa (IDA & IBRD),TMN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4188.26751520748,Middle East & North Africa (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.48427007673927
+Middle income,MIC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5269.78652898996,Middle income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.22116541962694
+North America,NAC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,55331.412892062,North America,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.4552307203693
+OECD members,OED,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,39306.5785276268,OECD members,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.90524241356707
+Other small states,OSS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,13702.7201885517,Other small states,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.34703642042503
+Pacific island small states,PSS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3424.46566644882,Pacific island small states,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.66368284929194
+Post-demographic dividend,PST,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,44695.1811079076,Post-demographic dividend,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.43067066752352
+Pre-demographic dividend,PRE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1496.60419961922,Pre-demographic dividend,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.98772449333338
+Small states,SST,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,12290.0598569553,Small states,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.54936535014835
+South Asia,SAS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1932.53400870455,South Asia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.44608709172634
+South Asia (IDA & IBRD),TSA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1932.53400870455,South Asia (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.44608709172634
+Sub-Saharan Africa,SSF,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1656.70296470831,Sub-Saharan Africa,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.0039380288888
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1644.9444026914,Sub-Saharan Africa (excluding high income),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.0122360733208
+Sub-Saharan Africa (IDA & IBRD),TSS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1656.70296470831,Sub-Saharan Africa (IDA & IBRD),"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.0039380288888
+Upper middle income,UMC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8465.70780689266,Upper middle income,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.66908439448947
+World,WLD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,11057.0164646475,World,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.95732820725395
+Afghanistan,AFG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,573.287551042738,Afghanistan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,17.2884637273119
+Albania,ALB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5210.68829038413,Albania,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.03599641131377
+Algeria,DZA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4699.76340456603,Algeria,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.66004004219541
+Angola,AGO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3111.15769874335,Angola,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.08828741319193
+Antigua and Barbuda,ATG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15704.2659429089,Antigua and Barbuda,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.37279775035651
+Argentina,ARG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9742.45541691587,Argentina,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.70904330858032
+Armenia,ARM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4732.06950610049,Armenia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.67775117531801
+Australia,AUS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,57183.3793476238,Australia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.94459221316378
+Austria,AUT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,50536.6641459983,Austria,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.44531462854727
+Azerbaijan,AZE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5879.42660959447,Azerbaijan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.7636405524941
+"Bahamas, The",BHS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,28908.5485742501,"Bahamas, The","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,13.8557689084434
+Bahrain,BHR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,20912.9868841525,Bahrain,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.89231702659159
+Bangladesh,BGD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1287.8215971097,Bangladesh,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.13149266345035
+Barbados,BRB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,16099.8284121592,Barbados,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.30922726355312
+Belarus,BLR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6713.26155383512,Belarus,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.71450571457612
+Belgium,BEL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,47541.0960425587,Belgium,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.12096377150522
+Belize,BLZ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4149.86190551309,Belize,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,18.8455291613112
+Benin,BEN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1259.80807064558,Benin,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.19147102400214
+Bhutan,BTN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3262.198967599,Bhutan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.04574466073515
+Bolivia,BOL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2579.89901190316,Bolivia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.7017791007376
+Bosnia and Herzegovina,BIH,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6303.68866498252,Bosnia and Herzegovina,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.76658780271476
+Botswana,BWA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8092.96708724053,Botswana,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.38521814911902
+Brazil,BRA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,11121.7399151021,Brazil,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.5536597805284
+Brunei Darussalam,BRN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,32327.4055290563,Brunei Darussalam,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.98998923708015
+Bulgaria,BGR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9058.73528029721,Bulgaria,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,2.47491821960442
+Burkina Faso,BFA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,822.203917045326,Burkina Faso,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.1299696099475
+Burundi,BDI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,208.074726923036,Burundi,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.0613038251609
+Cabo Verde,CPV,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3907.65337200972,Cabo Verde,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,14.0503672882585
+Cambodia,KHM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1268.97160228996,Cambodia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.24472413666233
+Cameroon,CMR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1518.31214949466,Cameroon,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.4575175768539
+Canada,CAN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,51583.1048837302,Canada,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.41911458940873
+Central African Republic,CAF,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,384.145561598858,Central African Republic,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.02071399710817
+Chad,TCD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,813.719894880171,Chad,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.56702741121068
+Chile,CHL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15091.4505062473,Chile,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.76325777813412
+China,CHN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8242.05464327933,China,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.81721294175657
+Colombia,COL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,7838.20971410357,Colombia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,14.0145081478681
+Comoros,COM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1399.38853793637,Comoros,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.2467830416715
+"Congo, Dem. Rep.",COD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,423.640255620729,"Congo, Dem. Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.68515364034957
+"Congo, Rep.",COG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2166.09410080018,"Congo, Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.45927513175737
+Costa Rica,CRI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,10046.9400015886,Costa Rica,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.8785114228484
+Cote d'Ivoire,CIV,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1727.28368913368,Cote d'Ivoire,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.0346807490684
+Croatia,HRV,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,16519.0374997118,Croatia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.06513555428123
+Cyprus,CYP,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,32093.0265789587,Cyprus,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.3466254345444
+Czech Republic,CZE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,24261.0754624821,Czech Republic,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.77548092277927
+Denmark,DNK,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,65867.001719698,Denmark,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.51602038320691
+Dominican Republic,DOM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8002.44167801726,Dominican Republic,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,15.48988619393
+Ecuador,ECU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5097.06864233147,Ecuador,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.4597060711425
+"Egypt, Arab Rep.",EGY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3010.15292002424,"Egypt, Arab Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.76370850328626
+El Salvador,SLV,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3572.35758624304,El Salvador,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,19.0934834826794
+Equatorial Guinea,GNQ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9237.7161862392,Equatorial Guinea,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.70971711464802
+Estonia,EST,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,20851.1773573225,Estonia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.22251355239039
+Eswatini,SWZ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4818.19216532272,Eswatini,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.0582584827889
+Ethiopia,ETH,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,602.634069309359,Ethiopia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.086981875164
+Fiji,FJI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4738.6292897774,Fiji,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.94428024132822
+Finland,FIN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,49385.6764049875,Finland,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.6430073668987
+France,FRA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,44320.0577255468,France,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.35586909299778
+Gabon,GAB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9177.51660272077,Gabon,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.72346871611595
+"Gambia, The",GMB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,815.215545192783,"Gambia, The","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.730154367917
+Georgia,GEO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4978.79525077853,Georgia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.9013560135276
+Germany,DEU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,47469.4770843065,Germany,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.64167927814672
+Ghana,GHA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1884.28485989233,Ghana,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.37566706581807
+Greece,GRC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,24022.3353158753,Greece,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.9092271407784
+Grenada,GRD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9220.3861385417,Grenada,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.85597642799092
+Guatemala,GTM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3413.23401299435,Guatemala,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,16.1241799000554
+Guinea,GIN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,920.878243870497,Guinea,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.76659121001158
+Guinea-Bissau,GNB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,635.525710129137,Guinea-Bissau,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.20610287326903
+Guyana,GUY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6107.3474195403,Guyana,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.9406666905255
+Haiti,HTI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1245.01249625003,Haiti,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.6268315967256
+Honduras,HND,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2241.23866547752,Honduras,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,17.885319118491
+Hungary,HUN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,17570.1669672941,Hungary,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.13719063874997
+Iceland,ISL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,51438.9162220193,Iceland,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.56091161354251
+India,IND,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2151.72603537868,India,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.9006121614115
+Indonesia,IDN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4450.72450013922,Indonesia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.74791485029487
+"Iran, Islamic Rep.",IRN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5922.52758728661,"Iran, Islamic Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.6036644428042
+Iraq,IRQ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5589.02158223942,Iraq,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,17.8103902558149
+Ireland,IRL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,79823.0142175909,Ireland,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.9095342520665
+Israel,ISR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,35276.1934700868,Israel,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.23548509030735
+Italy,ITA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,35677.3805389654,Italy,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.85670624309975
+Jamaica,JAM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4866.98734957066,Jamaica,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.729280289459
+Japan,JPN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,49187.8330895642,Japan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.91285957647839
+Jordan,JOR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3325.80780970269,Jordan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.3837060486942
+Kazakhstan,KAZ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,11518.5181248362,Kazakhstan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.19985364765381
+Kenya,KEN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1237.49749909667,Kenya,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.8536088765901
+Kiribati,KIR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1790.47992986302,Kiribati,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.56978611559355
+"Korea, Rep.",KOR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,28675.0344073464,"Korea, Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.26079720632437
+Kuwait,KWT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,32702.2010302896,Kuwait,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,13.5451957149019
+Kyrgyz Republic,KGZ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1116.47893018393,Kyrgyz Republic,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.97238903608636
+Lao PDR,LAO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1840.50435279444,Lao PDR,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.01654868295383
+Latvia,LVA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,16713.0790737738,Latvia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.9656268353408
+Lebanon,LBN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5792.25533023923,Lebanon,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.89549332195732
+Lesotho,LSO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1352.5756179982,Lesotho,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.7314607776223
+Liberia,LBR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,516.25599091284,Liberia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.91344023749502
+Libya,LBY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8122.17048902136,Libya,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,14.556827487362
+Lithuania,LTU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,18561.1425617641,Lithuania,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.43139588283383
+Luxembourg,LUX,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,111043.531695388,Luxembourg,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.04676085887135
+Madagascar,MDG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,500.401970795678,Madagascar,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.51518973411725
+Malawi,MWI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,523.603451590109,Malawi,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.1643789420465
+Malaysia,MYS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,12486.6788007841,Malaysia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.41842161031946
+Maldives,MDV,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8476.56400867767,Maldives,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.66248674447325
+Mali,MLI,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,791.646128746768,Mali,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.42341482317176
+Malta,MLT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,28894.7173199388,Malta,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.25265750939782
+Mauritania,MRT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1756.1185151256,Mauritania,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.2224410871213
+Mauritius,MUS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,10892.5401750016,Mauritius,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.35411519799515
+Mexico,MEX,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,10267.500171933,Mexico,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.4962551679616
+Moldova,MDA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3712.38515994641,Moldova,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.04526188221804
+Mongolia,MNG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4352.64159092309,Mongolia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.9744404544239
+Montenegro,MNE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8591.20464391807,Montenegro,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.48017883696707
+Morocco,MAR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3396.05936346253,Morocco,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.9035818970584
+Mozambique,MOZ,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,588.677129562073,Mozambique,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.39619580490294
+Myanmar,MMR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1608.48619521276,Myanmar,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.25817448066616
+Namibia,NAM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5766.00021807273,Namibia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.8124947057211
+Nepal,NPL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,859.023683467637,Nepal,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.72184539648093
+Netherlands,NLD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,55450.5004173409,Netherlands,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.76499055099377
+New Zealand,NZL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,38505.1022096491,New Zealand,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.04337155251318
+Nicaragua,NIC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1763.20262362277,Nicaragua,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.90956217157595
+Niger,NER,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,563.149109110671,Niger,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.4722428619647
+Nigeria,NGA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2374.36943003918,Nigeria,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.66039943199942
+North Macedonia,MKD,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5625.13107315736,North Macedonia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,2.58451833357533
+Norway,NOR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,92556.3216445989,Norway,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.59829045075369
+Oman,OMN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15082.0160219027,Oman,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.4455851006983
+Pakistan,PAK,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1185.45677074611,Pakistan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.99617358473283
+Panama,PAN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,11910.1553367817,Panama,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.77274038420363
+Papua New Guinea,PNG,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2489.99704411109,Papua New Guinea,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.3734407132877
+Paraguay,PRY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,5310.36062271648,Paraguay,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.1075949803312
+Peru,PER,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6486.63461847252,Peru,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.87633625552741
+Philippines,PHL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3337.68200959564,Philippines,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.96919013955976
+Poland,POL,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,17409.0274340387,Poland,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.24088228218582
+Portugal,PRT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,24618.1165223533,Portugal,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.79371579293751
+Qatar,QAT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,63281.6746784339,Qatar,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,18.1595052295684
+Romania,ROU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,12085.8532593978,Romania,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.63515880942512
+Russian Federation,RUS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,12011.5318008407,Russian Federation,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.79121723457985
+Rwanda,RWA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,901.304358327991,Rwanda,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.4263943162598
+Samoa,WSM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3869.28782709263,Samoa,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.88275737702493
+Sao Tome and Principe,STP,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1289.02171397044,Sao Tome and Principe,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.4148873749694
+Saudi Arabia,SAU,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,20542.1670613338,Saudi Arabia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,19.4592222972666
+Senegal,SEN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1584.47152910985,Senegal,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.335051948198
+Serbia,SRB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,7229.93756996557,Serbia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,2.37438662942997
+Seychelles,SYC,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15048.7469258275,Seychelles,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.53426106067687
+Sierra Leone,SLE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,488.455873508535,Sierra Leone,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.24984218649174
+Singapore,SGP,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,58829.635369588,Singapore,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.27353050170409
+Slovak Republic,SVK,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,20998.8451277804,Slovak Republic,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.28671780232579
+Slovenia,SVN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,27421.0287123765,Slovenia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.35694422198643
+Solomon Islands,SLB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1749.4272554716,Solomon Islands,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.76886012120253
+South Africa,ZAF,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,7345.96279427019,South Africa,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.9895858197131
+Spain,ESP,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,33352.3289626088,Spain,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.62210162451938
+Sri Lanka,LKA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4011.68194141576,Sri Lanka,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.0110528250866
+St. Lucia,LCA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,9350.74809965205,St. Lucia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.96256171925254
+St. Vincent and the Grenadines,VCT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6862.91432374891,St. Vincent and the Grenadines,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.79248031433544
+Sudan,SDN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1724.08526921269,Sudan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.5091032751335
+Suriname,SUR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,8046.94567736361,Suriname,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.57560006869921
+Sweden,SWE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,58050.0192532314,Sweden,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.03745873904773
+Switzerland,CHE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,79402.5092098658,Switzerland,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.69826863764251
+Tajikistan,TJK,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1121.13023002235,Tajikistan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.31925734409598
+Tanzania,TZA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,985.44817311162,Tanzania,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,11.2818740241766
+Thailand,THA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,6501.55605590845,Thailand,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.51406469826445
+Timor-Leste,TLS,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,977.751266022885,Timor-Leste,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.86081927085795
+Togo,TGO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,696.076939317577,Togo,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.3170844572584
+Tonga,TON,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4355.0754329506,Tonga,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.51607637745389
+Trinidad and Tobago,TTO,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15105.0523313771,Trinidad and Tobago,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,10.3633819137224
+Tunisia,TUN,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,4405.01691212466,Tunisia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.91074046240076
+Turkey,TUR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,15125.3911212146,Turkey,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,4.66807225367062
+Uganda,UGA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,962.535212928424,Uganda,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,12.7585185774618
+Ukraine,UKR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3224.93516522753,Ukraine,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.01101815960154
+United Arab Emirates,ARE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,41420.4830318379,United Arab Emirates,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,15.8086878707137
+United Kingdom,GBR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,43710.4514496771,United Kingdom,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,3.68614740758269
+United States,USA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,55753.1443685885,United States,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.55296093578568
+Uruguay,URY,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,14597.3080972884,Uruguay,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,7.33568967755435
+Uzbekistan,UZB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2459.01623951677,Uzbekistan,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,6.6096658662414
+Vanuatu,VUT,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2887.30536264955,Vanuatu,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.21739293373837
+Vietnam,VNM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,2082.24369434234,Vietnam,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,9.32848946693106
+"Yemen, Rep.",YEM,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,631.48787735002,"Yemen, Rep.","Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,19.4927104394208
+Zambia,ZMB,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1653.82940051561,Zambia,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,8.68976437239104
+Zimbabwe,ZWE,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1183.09882268225,Zimbabwe,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,13.0944706390617
