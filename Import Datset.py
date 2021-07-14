@@ -171,3 +171,68 @@ sns.lmplot(x='GDP per Capita', y= '% Death by Injury', data=Death_New, scatter_k
 
 # Switch the X and Y axis
 sns.lmplot(x= '% Death by Injury', y = 'GDP per Capita', data=Death_New, scatter_kws={'color':tableau_20[2], 'alpha':0.75})
+
+# Use Iterrows to get Iterations
+import pandas as pd
+
+# Creating a data frame
+df = pd.DataFrame(Gender_Stats)
+
+# Itering over the data frame rows
+# using df.iterrows()
+itr = next(df.iterrows())[1]
+itr
+
+# Creating a data frame for Number of years Female Schooling  per Country
+Female_Schooling =Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Expected years of schooling, female']
+
+# Show the Female Schooling Dataset
+Female_Schooling
+
+# Drop NaN values from Female Schooling
+Female_Schooling.dropna()
+
+# Create a new Dataset called FSchool
+FSchool=Female_Schooling.dropna()
+
+# Create a Male Schooling Dataset
+Male_Schooling =Gender_Stats_2019[Gender_Stats_2019["Indicator Name"] == 'Expected years of schooling, male']
+
+# Create a MSchooling Dataset without NaN values
+MSchooling = Male_Schooling.dropna()
+
+# Create a new dataset by merging GDP and School
+GDP_Female_schooling = pd.merge(GDP, FSchool, on='Country Code', how='inner')
+
+# Update the COLUMN NAMES ON THE DATASET
+GDP_Female_schooling_New = GDP_Female_schooling.rename(columns={ '2019_y':'Years Female Schooling', '2019_x': 'GDP per Capita'})
+
+# Create a new dataset by merging GDP and School
+sns.lmplot(x="Years Female Schooling", y="GDP per Capita", data=GDP_Female_schooling_New, scatter_kws={'color':tableau_20[2], 'alpha':0.75})
+
+# Merge GDP and Make Schooling
+GDP_male_schooling = pd.merge(GDP, Male_Schooling, on='Country Code', how='inner')
+
+# Update the Column Names
+GDP_Male_Schooling_New = GDP_male_schooling.rename(columns={ '2019_y':'Years Male Schooling', '2019_x': 'GDP per Capita'})
+
+# Plot Male Schooling vs GDP
+sns.lmplot(x="Years Male Schooling", y="GDP per Capita", data=GDP_Male_Schooling_New, scatter_kws={'color':tableau_20[2], 'alpha':0.75})
+
+# Get Pearsons correlation of Male Schooling to GDP per Person
+GDP_Male_Schooling_New.corr(method='pearson')
+
+# Get Pearsons correlation of Female Schooling to GDP per Person
+GDP_Female_schooling_New.corr(method='pearson')
+
+# Describe the Years Female Schooling Column
+GDP_Female_schooling_New['Years Female Schooling'].describe()
+
+# Describe the Years Male Schooling Column
+GDP_Male_Schooling_New['Years Male Schooling'].describe()
+
+# Generate a CSV file for GDP_Female_schooling_New
+GDP_Female_schooling_New.to_csv("GDP_Female_schooling_New.csv", index=False, encoding='utf8')
+
+# Generate a CSV file for MSchooling
+MSchooling.to_csv("MSchooling.csv", index=False, encoding='utf8')
